@@ -15,8 +15,8 @@ This Python script automates the process of downloading PDF files from Google Dr
 ## Folder & File Structure
 
 ```
-WaterSheet_GCP/
-│-- script.py                    # Main script
+PDF-Watermark-Automation/
+│-- PDF-Watermark-Automation.py                    # Main script
 │-- credentials.json             # Google Service Account credentials
 │-- README.md                    # Project documentation
 ```
