@@ -56,7 +56,7 @@ SERVICE_ACCOUNT_FILE = "credentials.json"
 
 ### 4. Configure Google Drive and Sheets IDs
 
-Update the following variables in `script.py` with your own Google Drive folder IDs and Google Sheet ID:
+Update the following variables in `PDF-Watermark-Automation.py` with your own Google Drive folder IDs and Google Sheet ID:
 
 ```python
 FOLDER_ID_SOURCE = 'your-source-folder-id'
@@ -69,7 +69,7 @@ SPREADSHEET_ID = 'your-google-sheet-id'
 Run the script using:
 
 ```sh
-python script.py
+python PDF-Watermark-Automation.py
 ```
 
 The script will:
