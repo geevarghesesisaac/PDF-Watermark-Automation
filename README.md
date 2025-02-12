@@ -35,8 +35,8 @@ Ensure you have the following before running the script:
 ### 1. Clone the Repository
 
 ```sh
-git clone https://github.com/yourusername/WaterSheet_GCP.git
-cd WaterSheet_GCP
+git clone https://github.com/yourusername/PDF-Watermark-Automation.git
+cd PDF-Watermark-Automation
 ```
 
 ### 2. Install Dependencies
